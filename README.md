@@ -41,7 +41,7 @@ To run this project, you’ll need to install the necessary dependencies.
     Data Preparation: Place your event log file (in CSV or XES format) in the data/ folder.
     Run Analysis: Use the provided scripts to preprocess data, discover processes, and generate insights.
 
-    python main.py
+    jupyter notebook main.ipynb
 
     Visualization: Review the generated process maps and performance visualizations in the img/ folder.
 
