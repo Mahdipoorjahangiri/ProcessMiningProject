@@ -19,7 +19,7 @@ To run this project, you’ll need to install the necessary dependencies.
 
 ### Clone this repository:
 
-        git clone https://github.com/your-username/ProcessMiningProject.git
+    git clone https://github.com/Mahdipoorjahangiri/ProcessMiningProject.git
 
 ## Navigate into the project folder:
 
@@ -43,7 +43,7 @@ To run this project, you’ll need to install the necessary dependencies.
 
     python main.py
 
-    Visualization: Review the generated process maps and performance visualizations in the output/ folder.
+    Visualization: Review the generated process maps and performance visualizations in the img/ folder.
 
 ## Project Structure
 
